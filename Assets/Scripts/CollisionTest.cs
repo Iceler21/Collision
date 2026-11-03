@@ -54,6 +54,6 @@ Old Video Time:
 
 Current Video Time:
 
-[ONGOING]
+COMPLETED
 
 */
