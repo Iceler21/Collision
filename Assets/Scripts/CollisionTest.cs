@@ -48,12 +48,8 @@ public class CollisionTest : MonoBehaviour
 
 /*
 
-Old Video Time:
+Current video time:
 
-11:35
-
-Current Video Time:
-
-COMPLETED
+[ONGOING]
 
 */
